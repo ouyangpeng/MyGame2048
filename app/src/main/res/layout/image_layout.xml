@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+
+    <Button
+        android:id="@+id/loadImage"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="加载大图片" />
+    <Button
+        android:id="@+id/readExif"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="读取Exif信息" />
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+        
+
+</LinearLayout>
