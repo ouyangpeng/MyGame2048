@@ -5,5 +5,5 @@
     <string name="score">分数：</string>
     <string name="bestscore">最高分：</string>
     <string name="newgame">重新开始</string>
-    <string name="appinfo">极客学院2048，作者：ime</string>
+    <string name="appinfo">游戏2048，作者：欧阳鹏</string>
 </resources>
